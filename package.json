@@ -1,0 +1,14 @@
+{
+  "name": "mcs-eavesdropper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node eavesdropper.js"
+  },
+  "dependencies": {
+    "winston": "2.4.2",
+    "mcs-js": "git+https://github.com/mconftec/mcs-js.git#v0.0.5-dev",
+    "yargs": "*"
+  },
+  "optionalDependencies": {}
+}
