@@ -1,5 +1,6 @@
 # mcs-eavesdropper: command application over mcs-core's API
-# Usage:
+
+## Usage:
   * `export MCS_ADDRESS=<mcs-address>`
   * `npm install`
   * `node eavesdropper.js -h`
