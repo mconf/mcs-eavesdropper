@@ -7,8 +7,8 @@
   },
   "dependencies": {
     "winston": "2.4.2",
-    "mcs-js": "git+https://github.com/mconftec/mcs-js.git#v0.0.7-dev",
-    "yargs": "*"
+    "mcs-js": "git+https://github.com/mconftec/mcs-js.git#v0.0.11",
+    "yargs": "17.2.1"
   },
   "optionalDependencies": {}
 }
